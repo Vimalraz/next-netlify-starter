@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my page!" />
         <p className="description">
-          Currently building the site, this will track the progress of my <code> coding journey <code/> and blog
+          Currently building the site. This site will track the progress of my coding journey and maybe a blog.
         </p>
       </main>
 
